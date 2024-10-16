@@ -1,4 +1,6 @@
 target/
+.cache
+compile_commands.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/c,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,macos,linux
